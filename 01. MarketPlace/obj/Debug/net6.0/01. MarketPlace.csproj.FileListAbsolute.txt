@@ -1,0 +1,5 @@
+D:\VS Projects\03.2.Lab-ComplexConditionalStatements\01. MarketPlace\obj\Debug\net6.0\01. MarketPlace.csproj.AssemblyReference.cache
+D:\VS Projects\03.2.Lab-ComplexConditionalStatements\01. MarketPlace\obj\Debug\net6.0\01. MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\03.2.Lab-ComplexConditionalStatements\01. MarketPlace\obj\Debug\net6.0\01. MarketPlace.AssemblyInfoInputs.cache
+D:\VS Projects\03.2.Lab-ComplexConditionalStatements\01. MarketPlace\obj\Debug\net6.0\01. MarketPlace.AssemblyInfo.cs
+D:\VS Projects\03.2.Lab-ComplexConditionalStatements\01. MarketPlace\obj\Debug\net6.0\01. MarketPlace.csproj.CoreCompileInputs.cache
